@@ -1,0 +1,7 @@
+Prefix pipelines/PRADA/
+#Plugin LogFoldScale inputfile input/high-vs-low_metastatic_lines_GSE59857.txt outputfile input/high-vs-low_metastatic_lines_GSE59857_logFC_refseq.txt
+#Plugin RBPMotif inputfile parameters/parameters.rbpmotif.txt outputfile outputs/motifs.txt
+#Plugin FASTAREGEX inputfile parameters/parameters.fastaregex.txt outputfile outputs/motifs-mrna.out
+#Plugin RefSeq inputfile parameters/parameters.refseq.txt outputfile outputs/RBP-v-RefSeq_target_matrix.txt
+Plugin HUGO inputfile parameters/parameters.hugo.txt outputfile outputs/
+Plugin RSTibble inputfile parameters/parameters.rstibble.txt outputfile outputs/
