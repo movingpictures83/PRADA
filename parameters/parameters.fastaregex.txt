@@ -1,0 +1,3 @@
+motifs	outputs/motifs.txt
+fasta	data/hg19_mrna.fa
+rna	1

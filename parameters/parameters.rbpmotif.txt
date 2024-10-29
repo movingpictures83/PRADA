@@ -1,0 +1,2 @@
+metastatic	input/high-vs-low_metastatic_lines_GSE59857.txt
+motifmap	data/motif_RBP_map.txt

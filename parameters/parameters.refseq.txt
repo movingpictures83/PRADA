@@ -1,0 +1,3 @@
+motifs	outputs/motifs-mrna.out
+RDfile	input/high-vs-low_metastatic_lines_GSE59857_logFC_refseq.txt
+motifmap	data/motif_RBP_map.txt

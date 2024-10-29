@@ -1,0 +1,4 @@
+hg19	data/hg19_genes_vs_refseq.txt
+refseq	outputs/RBP-v-RefSeq_target_matrix.txt
+RDfile	input/high-vs-low_metastatic_lines_GSE59857_logFC_refseq.txt
+motifmap	data/motif_RBP_map.txt
